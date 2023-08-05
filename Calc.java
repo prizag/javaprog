@@ -22,8 +22,10 @@ public class Calc
         b=6;
         int c = add(a,b);
         int d = sub(a,b);
-        int d = multiply(a,b);
-        System.out.print(c);
+        int e = multiply(a,b);
+        System.out.println(c);
+        System.out.println(d);
+        System.out.println(e);
 
     }
 }
